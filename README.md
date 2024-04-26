@@ -1,0 +1,5 @@
+![ekran1](https://github.com/AhmetTuranCEYLAN/techcareer-Vue.js-Bootcamp-Projesi/assets/126267461/832ddcb1-f7ed-4387-a19e-638e91d74c8e)
+![ekran2](https://github.com/AhmetTuranCEYLAN/techcareer-Vue.js-Bootcamp-Projesi/assets/126267461/9af0b6db-0c01-4dca-8ce2-6f821905a994)
+![ekran3](https://github.com/AhmetTuranCEYLAN/techcareer-Vue.js-Bootcamp-Projesi/assets/126267461/0bf92d48-2bda-4a69-983e-d308a6a9fd75)
+![ekran4](https://github.com/AhmetTuranCEYLAN/techcareer-Vue.js-Bootcamp-Projesi/assets/126267461/a7278cb5-9c0b-4e03-b459-af44f2c74dc0)
+![ekran5](https://github.com/AhmetTuranCEYLAN/techcareer-Vue.js-Bootcamp-Projesi/assets/126267461/fe9ba346-92b5-44b0-9bcd-c6e065ec2103)
