@@ -3,3 +3,4 @@
 ![ekran3](https://github.com/AhmetTuranCEYLAN/techcareer-Vue.js-Bootcamp-Projesi/assets/126267461/0bf92d48-2bda-4a69-983e-d308a6a9fd75)
 ![ekran4](https://github.com/AhmetTuranCEYLAN/techcareer-Vue.js-Bootcamp-Projesi/assets/126267461/a7278cb5-9c0b-4e03-b459-af44f2c74dc0)
 ![ekran5](https://github.com/AhmetTuranCEYLAN/techcareer-Vue.js-Bootcamp-Projesi/assets/126267461/fe9ba346-92b5-44b0-9bcd-c6e065ec2103)
+![ekran6](https://github.com/AhmetTuranCEYLAN/techcareer-Vue.js-Bootcamp-Projesi/assets/126267461/cc40000a-7cd1-469a-9d38-ca2453fe3312)
